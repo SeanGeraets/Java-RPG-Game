@@ -1,0 +1,8 @@
+1) More Enemies
+2) Cities
+3) Quests
+4) More Items
+5) More Spells
+6) Adapt for gui
+7) Player classes
+

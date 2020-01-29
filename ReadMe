@@ -1,0 +1,7 @@
+This is a simple rpg game made using Java. It is not complete and as such there are still 
+parts that have not been implemented and there may still be bugs.
+
+There are currently two enemies that can be encountered and fought. Each enemy has different stats and different loot tables.
+There is a working inventory system for gaining items, equipping items, using items, and selling items.
+There is a working stat system. Each time you level up, you gain a stat point that you can allocate to a few different stats.
+There is currently one working city that you can discover, although not all of the options in the city have been implemented.
